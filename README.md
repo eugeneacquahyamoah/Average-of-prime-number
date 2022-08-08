@@ -1,1 +1,0 @@
-# Average-of-prime-number
